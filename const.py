@@ -1,0 +1,1 @@
+TOKEN = '0000000:АААН5455авцсмьчсмлуцкщывюав'  # Write here your TOKEN (get it from @BotFather)
