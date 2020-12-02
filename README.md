@@ -4,7 +4,7 @@
 
 Telegram bot, telegram shop to order food from restaurants (shell for an online store)
 
-You can customize it for personal purposes
+You can customize it for personal purposes!
 
 #Write on <strong>TELEBOT</strong> (pytelegrambotapi)
 
