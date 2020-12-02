@@ -9,6 +9,6 @@ You can customize it for personal purposes
 
 1) Download bot.py and const.py
 2) Make python enviroment and install Telebot (in console: $ pip install pytelegrambotapi)
-3) Get from official telegram BOT @botfather your BOT TOKEN, and copy this to consst.py
+3) Get from official telegram BOT @botfather your BOT TOKEN, and copy this to const.py
 4) Start bot.py
 
